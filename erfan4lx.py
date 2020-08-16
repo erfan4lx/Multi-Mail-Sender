@@ -36,12 +36,12 @@ def main(emailf, password, host, port, emailt, subject, message):
     s.quit()
     del msg
 
-f1 = open("emailsf.txt","r").read()
-f2 = open("passwords.txt","r").read()
-f3 = open("hosts.txt","r").read()
-f4 = open("ports.txt","r").read()
-f5 = open("emailst.txt","r").read()
-f10 = open("subtext.txt","r").read()
+f1 = open("EmailsF.txt","r").read()
+f2 = open("Passwords.txt","r").read()
+f3 = open("Hosts.txt","r").read()
+f4 = open("Ports.txt","r").read()
+f5 = open("EmailsT.txt","r").read()
+f10 = open("SubText.txt","r").read()
 f10 = f10.split()
 f6 = f10[0]
 f7 = f10[1]
