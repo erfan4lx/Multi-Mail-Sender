@@ -1,6 +1,27 @@
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+import sys
+
+banner = """
+   _______________          _______________
+  |  ___________  |        |  ___________  |
+  | |           | |        | |           | |
+  | |   X   X   | |        | |           | |
+  | |     -     | |        | |   0   0   | |
+  | |    ___    | |        | |     -     | |
+  | |   /   \   | |        | |   \___/   | |
+  | |   \___/   | |        | |           | |
+  | |___________| |        | |___________| |
+  |_______________|        |_______________|
+    ____|   |___.............._|________|_
+   | ********** |            | ********** |
+   | ********** |            | ********** |
+    ------------              ------------
+   [ Coded by : erfan4lx] Teams : [M4nifest0 - Unidentified - Vortex ](Cyber Security Teams)
+"""
+
+print(banner)
 
 def main(emailf, password, host, port, emailt, subject, message):
     s = smtplib.SMTP(host=str(host), port=int(port))
@@ -42,4 +63,5 @@ for i in f5:
         main(f1[c],f2[c],f3[c],f4[c],i,f6,f7)
         counter += 1
     except:
-        c = 0
+        print(banner)
+        sys.exit()
