@@ -10,7 +10,7 @@
 
 5- Open the Ports.txt then put your mail port address(For Gmail put this addr = 587) 
 
-6- Open the SubText.txt then put your Subject then enter one space then enter Text of your mail like this: Subject Message 
+6- Open the SubText.txt then put your Subject then one space then Text of your mail like this: Subject Message 
 
 ***
 
