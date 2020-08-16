@@ -58,10 +58,9 @@ count = input("Counter: ")
 
 for i in f5:
     try:
-        if counter == count:
+        if int(counter) == int(count):
             c += 1
-        main(f1[c],f2[c],f3[c],f4[c],i,f6,f7)
+        main(f1[int(c)],f2[int(c)],f3[int(c)],f4[int(c)],i,f6,f7)
         counter += 1
     except:
-        print(banner)
         sys.exit()
