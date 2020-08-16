@@ -1,10 +1,15 @@
 # Multi-Mail-Sender
 
 1- Open the EmailsF.txt then put your mails 
+
 2- Open the Passwords.txt then put your mails passwords 
+
 2- Open the EmailsT.txt then put your target mails 
+
 3- Open the Hosts.txt then put your mail IP address(For Gmail put this addr = smtp.gmail.com) 
+
 4- Open the Ports.txt then put your mail port address(For Gmail put this addr = 587) 
+
 5- Open the SubText.txt then put your Subject then enter one space then enter Text of your mail like this: Subject Message 
 
 ***
