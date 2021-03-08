@@ -14,17 +14,10 @@
 
 ***
 
-Show on Youtube : https://youtu.be/tH0fLfXwNnU
+Show full video on YouTube : https://youtu.be/tH0fLfXwNnU
 
-➖➖➖➖➖➖
-Coded by: erfan4lx
-➖➖➖➖➖➖
+Show demo video on Instagram : https://www.instagram.com/p/CMKAQywgZ52
 
-👊 ʍ4ղíƒҽՏԵ0 ϲվҍҽɾ ՏҽϲմɾíԵվ Եҽɑʍ™💪
-
-🔥 ฿Ⱡ₳₵₭ Ⱨ₳₮ Ⱨ₳₵₭ɆⱤ 🔥
-
-➖➖➖➖➖➖
 
 🆔My YouTube Channel : http://youtube.com/erfan4lx
 
